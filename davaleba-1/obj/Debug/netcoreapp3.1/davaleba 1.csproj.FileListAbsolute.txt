@@ -1,0 +1,32 @@
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.exe
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.deps.json
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.runtimeconfig.json
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.runtimeconfig.dev.json
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.dll
+A:\c#\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.pdb
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.AssemblyReference.cache
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba_1.Form1.resources
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.GenerateResource.cache
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.AssemblyInfoInputs.cache
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.AssemblyInfo.cs
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.CoreCompileInputs.cache
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.dll
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.pdb
+A:\c#\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.genruntimeconfig.cache
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.exe
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.deps.json
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.runtimeconfig.json
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.runtimeconfig.dev.json
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.dll
+C:\Users\User\Desktop\product\davaleba-1\bin\Debug\netcoreapp3.1\davaleba 1.pdb
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba_1.Form1.resources
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.AssemblyInfo.cs
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.dll
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.pdb
+C:\Users\User\Desktop\product\davaleba-1\obj\Debug\netcoreapp3.1\davaleba 1.genruntimeconfig.cache
